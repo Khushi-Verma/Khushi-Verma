@@ -8,3 +8,4 @@
 - 📫 How to reach me [khushi.verma_cs18@gla.ac.in]()
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Khushi-Verma&repo=Khushi-Verma)
