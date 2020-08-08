@@ -1,4 +1,4 @@
-## Hi there, this is Khushi Verma. 🖐
+# Hi there, this is Khushi Verma. 🖐
 
 
 - 🔭 I’m currently working on **Projects** 
