@@ -7,4 +7,3 @@
 - 💬 Ask me about **anything you would like to ask**
 - 📫 How to reach me [khushi.verma_cs18@gla.ac.in]()
 
-![counter](https://[YourEndpoint].m.pipedream.net)
