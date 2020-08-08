@@ -1,7 +1,7 @@
 ## Hi there, this is Khushi Verma. 🖐
 
 
-- 🔭 I’m currently working on **Projects** 
+- 🔭 I’m currently working on **ReactJS** 
 - 🌱 I’m currently learning **Web development and Machine Learning**
 - 👯 I’m looking to collaborate **on projects of ML and Web Development**
 - 💬 Ask me about **anything you would like to ask**
