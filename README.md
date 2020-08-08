@@ -7,5 +7,3 @@
 - 💬 Ask me about **anything you would like to ask**
 - 📫 How to reach me [khushi.verma_cs18@gla.ac.in]()
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Khushi-Verma&repo=Khushi-Verma)
-Code
