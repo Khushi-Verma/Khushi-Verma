@@ -7,3 +7,4 @@
 - 💬 Ask me about **anything you would like to ask**
 - 📫 How to reach me [khushi.verma_cs18@gla.ac.in]()
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
