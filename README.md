@@ -10,5 +10,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Khushi-Verma&repo=Front-End)
-https://pipedream.com/@/p_G6CNmN/edit?copy=true
-![counter](https://[YourEndpoint].m.pipedream.net)
