@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Khushi Verma 👋
 
 <!--
 **Khushi-Verma/Khushi-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you would like to ask
 - 📫 How to reach me: khushi.verma_cs18@gla.ac.in
 -->
+jdoi3foehgioehg4
