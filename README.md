@@ -8,4 +8,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
 
 
-![counter](https://[https://enamu4b5ygu4rxu.m.pipedream.net].m.pipedream.net)
+
