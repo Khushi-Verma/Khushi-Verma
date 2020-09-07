@@ -1,4 +1,4 @@
- <h2> Hi there, this is Khushi Verma. 🖐 </h2>
+ <h2 style="text-align:center"> Hi there, this is Khushi Verma. 🖐 </h2>
 - 🔭 I’m currently working on **Projects** 
 - 🌱 I’m currently learning **ReactJS, Javascript, Web development and Machine Learning**
 - 👯 I’m looking to collaborate **on projects of ML and Web Development**
