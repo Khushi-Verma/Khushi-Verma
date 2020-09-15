@@ -1,5 +1,5 @@
 <div class="container">
-<h1> Hi there, this is Khushi Verma. 🖐 </h1>
+<h1 style="text-align:center;"> Hi there, this is Khushi Verma. 🖐 </h1>
 </div>
 
 - 🔭 I’m currently working on **Projects** 
