@@ -1,7 +1,7 @@
 <div class="container">
-  <h1>A </h1>
+<h1> Hi there, this is Khushi Verma. 🖐 </h1>
 </div>
-# Hi there, this is Khushi Verma. 🖐 
+
 - 🔭 I’m currently working on **Projects** 
 - 🌱 I’m currently learning **ReactJS, Javascript, Web development and Machine Learning**
 - 👯 I’m looking to collaborate **on projects of ML and Web Development**
