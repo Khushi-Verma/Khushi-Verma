@@ -12,3 +12,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
 
 
+ function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
