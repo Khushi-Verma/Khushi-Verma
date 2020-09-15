@@ -1,9 +1,3 @@
-<style>
-  .conatiner{
-  text-align:center;
-  }
-</style>
-
 <div class="container">
 <h1> Hi there, this is Khushi Verma. 🖐 </h1>
 </div>
