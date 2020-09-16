@@ -11,5 +11,12 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
 
-
+<head>
+ <style>
+  .conatiner{
+  text-align:center;
+  }
+ </style>
+ </head>
+ 
  
