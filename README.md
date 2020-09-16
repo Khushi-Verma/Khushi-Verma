@@ -1,5 +1,5 @@
 <div class="container">
-<h1 style="text-align:center"> Hi there, this is Khushi Verma. 🖐 </h1>
+<h1> Hi there, this is Khushi Verma. 🖐 </h1>
 </div>
 
 - 🔭 I’m currently working on **Projects** 
@@ -11,12 +11,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma)
 
-<head>
- <style>
-  .conatiner{
-  text-align:center;
-  }
- </style>
- </head>
- 
+
  
