@@ -3,7 +3,6 @@
 </div>
 
 - I'm currently working as frontend-devloper and I am looking forward to explore various fields of Computer Science and gain knowledge in order to be an efficient individual in the IT industry. In addition i have a working experience in UI development using Bootstrap and Material Design too.
-- 💬 Ask me about **anything you would like to ask**
 - 📫 How to reach me [khushi.verma_cs18@gla.ac.in]()
 - 👩 Fun fact **A developer would spend an hour adjusting the padding and margin of a single button. But wouldn’t spare 15 minutes for the project description Readme file.🙅‍♀️**
 
