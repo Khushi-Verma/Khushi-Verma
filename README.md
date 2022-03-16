@@ -8,7 +8,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Verma&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Verma&theme=tokyonight)
-//[![trophy](https://github-profile-trophy.vercel.app/?username=Khushi-Verma)](https://github.com/Khushi-Verma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khushi-Verma)](https://github.com/Khushi-Verma/github-profile-trophy)
 
 
 
